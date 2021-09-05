@@ -13,7 +13,8 @@ knitr::opts_chunk$set(
 )
 ```
 
-# whale
+# whale  
+
 Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today! 
 
 ## First things first
@@ -30,6 +31,7 @@ remotes::install_github("afrahc/whale")
 `whale` contains one function only. `say()` will echo a randomly chosen whale-themed phrase for your enjoyment.
 
 ```{r example}
+devtools::document()
 library(whale)
  
 say() 
