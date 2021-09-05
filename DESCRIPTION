@@ -1,0 +1,20 @@
+Package: whale
+Title: Draws a Whale and Returns a Comment 
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Afrah",
+           family = "Choorapulakkal",
+           role = c("aut", "cre"),
+           email = "afrahc03@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Creating a drawing of a whale where you are able to ask the whale to return any comment.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    magrittr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
