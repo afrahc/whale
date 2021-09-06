@@ -15,7 +15,7 @@ the latest version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("afrahc/whale")
+remotes::install_github("/whale")
 ```
 
 ## Take it for a spin
@@ -34,7 +34,7 @@ library(whale)
 say() 
 #> 
 #>             ------ 
-#>            I'm having a whale of a time! 
+#>            Whale, whale, whale...look who's here! 
 #>             ------ 
 #>                \   
 #>                 \  

@@ -23,7 +23,7 @@ Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/co
 
 ```{r, install, results = "hide", eval = FALSE}
 # install.packages("remotes")
-remotes::install_github("afrahc/whale")
+remotes::install_github("/whale")
 ```
 
 ## Take it for a spin
